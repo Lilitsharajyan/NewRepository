@@ -1,9 +1,6 @@
 
 //6
-let meter = 1;
-let x = meter;
+let meter = 3;
 let inch = 39.3701;
-for( x = 1; x < 7; x++){
-  result = x * inch;
-  console.log(result);
-}
+result = meter * inch;
+console.log(result);
