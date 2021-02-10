@@ -11,11 +11,11 @@ console.log("The largest number is " + largest);
     let num2 = 7;
     let num3 = 8;
     if(num1 > num2 && num1 > num3) {
-    console.log('num1 is the greatest');
+    console.log('num1 is the largeest');
     } else if(num2 > num1 && num2 > num3) {
-    console.log('num2 is the greatest');
+    console.log('num2 is the largest');
     } else if(num3 > num1 && num3 > num1) {
-    console.log('num3 is the greatest');
+    console.log('num3 is the largest');
     }
 		
 	
