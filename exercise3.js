@@ -14,7 +14,7 @@ console.log("The largest number is " + largest);
     console.log('num1 is the largeest');
     } else if(num2 > num1 && num2 > num3) {
     console.log('num2 is the largest');
-    } else if(num3 > num1 && num3 > num1) {
+    } else (num3 > num1 && num3 > num1) {
     console.log('num3 is the largest');
     }
 		
